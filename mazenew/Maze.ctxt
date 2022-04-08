@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Maze
+comment1.params=x
+comment1.target=Maze(java.lang.String[][])
+comment2.params=
+comment2.target=void\ solveMaze()
+comment3.params=first\ second\ placesUsed
+comment3.target=void\ check(MazePoint,\ MazePoint,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
