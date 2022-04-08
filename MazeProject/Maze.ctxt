@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Maze
+comment1.params=x\ b
+comment1.target=Maze(int,\ int)
+comment2.params=
+comment2.target=int\ getRPosition()
+comment3.params=
+comment3.target=int\ getCPosition()
+comment4.params=x
+comment4.target=void\ setRPosition(int)
+comment5.params=x
+comment5.target=void\ setCPosition(int)
+comment6.params=x
+comment6.target=void\ setMaze(int)
+comment7.params=
+comment7.target=void\ solveMaze()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

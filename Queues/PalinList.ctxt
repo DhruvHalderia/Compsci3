@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PalinList
+comment1.params=x
+comment1.target=PalinList(java.lang.String)
+comment2.params=
+comment2.target=java.util.Stack\ getStack()
+comment3.params=
+comment3.target=java.util.Queue\ getQueue()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

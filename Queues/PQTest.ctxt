@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PQTest
+comment1.params=x
+comment1.target=PQTest(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMin()
+comment3.params=
+comment3.target=java.lang.String\ getNaturalOrder()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

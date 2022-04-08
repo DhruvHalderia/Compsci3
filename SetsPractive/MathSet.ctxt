@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MathSet
+comment1.params=
+comment1.target=MathSet()
+comment2.params=o\ t
+comment2.target=MathSet(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.util.Set\ union()
+comment4.params=
+comment4.target=java.util.Set\ intersection()
+comment5.params=
+comment5.target=java.util.Set\ differenceAMinusB()
+comment6.params=
+comment6.target=java.util.Set\ differenceBMinusA()
+comment7.params=
+comment7.target=java.util.Set\ symmetricDifference()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

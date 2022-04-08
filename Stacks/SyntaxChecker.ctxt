@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SyntaxChecker
+comment1.params=x
+comment1.target=SyntaxChecker(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getWords()
+comment3.params=
+comment3.target=java.lang.String\ getStackValue()
+comment4.params=x
+comment4.target=void\ setWords(java.lang.String)
+comment5.params=x
+comment5.target=void\ addInStack(java.lang.String)
+comment6.params=
+comment6.target=void\ removeFromStack()
+comment7.params=
+comment7.target=void\ setSymbols()
+comment8.params=
+comment8.target=boolean\ getSyntax()
+numComments=9

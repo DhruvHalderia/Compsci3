@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MazePoint
+comment1.params=x\ r\ c
+comment1.target=MazePoint(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ setOffStatus()
+comment3.params=
+comment3.target=void\ setOnPath()
+comment4.params=
+comment4.target=void\ setOffPath()
+comment5.params=
+comment5.target=java.lang.String\ getCoordinates()
+comment6.params=
+comment6.target=boolean\ getOnPath()
+comment7.params=
+comment7.target=boolean\ getStatus()
+comment8.params=
+comment8.target=int\ getRPostition()
+comment9.params=
+comment9.target=int\ getCPosition()
+numComments=10
