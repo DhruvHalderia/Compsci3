@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=BadInputException
+comment1.params=x
+comment1.target=BadInputException(int)
+numComments=2
