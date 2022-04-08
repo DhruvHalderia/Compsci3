@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=QuickSort
+comment1.params=x
+comment1.target=QuickSort(int)
+comment10.params=statement
+comment10.target=java.lang.String\ getOutput(boolean)
+comment2.params=x
+comment2.target=void\ makeArray(int)
+comment3.params=
+comment3.target=int[]\ getFirstArr()
+comment4.params=arr
+comment4.target=void\ setArr(int[])
+comment5.params=counter
+comment5.target=void\ setCounter(int)
+comment6.params=amount
+comment6.target=java.lang.String\ quickNTimes(int)
+comment7.params=arr\ start\ end\ reverse
+comment7.target=void\ quickSort(int[],\ int,\ int,\ boolean)
+comment8.params=arr\ start\ end\ reverse
+comment8.target=int\ partition(int[],\ int,\ int,\ boolean)
+comment9.params=
+comment9.target=java.lang.String\ getOutputReverse()
+numComments=11

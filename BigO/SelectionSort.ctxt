@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SelectionSort
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=int[]\ makeArray(int)
+comment3.params=arr\ statement
+comment3.target=java.lang.String\ selectionSorting(int[],\ boolean)
+comment4.params=arr\ statement
+comment4.target=java.lang.String\ selectionSortingReverse(int[],\ boolean)
+comment5.params=amounts
+comment5.target=java.lang.String\ selectionSortingNTimes(int)
+numComments=6

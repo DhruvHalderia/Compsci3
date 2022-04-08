@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LinearSearch
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=int[]\ makeArray(int)
+comment3.params=arr\ amounts
+comment3.target=int[]\ search(int[],\ int)
+numComments=4

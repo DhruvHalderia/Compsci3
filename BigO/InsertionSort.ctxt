@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=InsertionSort
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=int[]\ makeArray(int)
+comment3.params=amounts
+comment3.target=java.lang.String\ insertionSortingNTimes(int)
+comment4.params=arr\ statement\ reverse
+comment4.target=java.lang.String\ insertionSorting(int[],\ boolean,\ boolean)
+numComments=5
